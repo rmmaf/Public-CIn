@@ -5,9 +5,10 @@ body {
 	justify-content: space-around;
 	height: 600px;
 	align-content: space-around;
+	font-family: 'Roboto', sans-serif;
 }
 article {
-	width: 400px;
+	width: 300px;
 	height: 300px;
 }
 footer {
@@ -24,6 +25,10 @@ article img {
 	width: auto;
 }
 @media all and (max-width: 600px){
+	aside {
+		font-size: 70%;
+		margin-bottom: 0px;
+	}
 	article {
 		width: 160px;
 		height: 120px;
