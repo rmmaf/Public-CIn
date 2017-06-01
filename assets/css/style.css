@@ -6,6 +6,7 @@ body {
 	height: 600px;
 	align-content: space-around;
 	font-family: 'Roboto', sans-serif;
+	background-color: #cccccc;
 }
 article {
 	width: 300px;
