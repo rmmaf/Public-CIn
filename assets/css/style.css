@@ -11,14 +11,13 @@ article {
 	height: 300px;
 }
 footer {
-	align-self: flex-end;
-	width: 1000px;
+	margin: 0 auto;
 	height: 100px;
 }
 footer img {
 	height: 100%;
 	width: auto;
-	margin: 10px;
+	margin: 20px;
 }
 article img {
 	height: 100%;
@@ -33,8 +32,13 @@ article img {
 		width: 100%;
 		height: auto;
 	}
+	footer {
+		margin: 0 auto;
+		height: 30px;
+	}
 	footer img{
-		width: 10%;
-		height: auto;
+		width: auto;
+		height: 100%;
+		margin: 5px;
 	}
 }
