@@ -24,3 +24,17 @@ article img {
 	height: 100%;
 	width: auto;
 }
+@media all and (max-width: 600px){
+	article {
+		width: 160px;
+		height: 120px;
+	}
+	article img{
+		width: 100%;
+		height: auto;
+	}
+	footer img{
+		width: 10%;
+		height: auto;
+	}
+}
