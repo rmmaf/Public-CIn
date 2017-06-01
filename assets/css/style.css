@@ -1,0 +1,26 @@
+body {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+	justify-content: space-around;
+	height: 600px;
+	align-content: space-around;
+}
+article {
+	width: 400px;
+	height: 300px;
+}
+footer {
+	align-self: flex-end;
+	width: 1000px;
+	height: 100px;
+}
+footer img {
+	height: 100%;
+	width: auto;
+	margin: 10px;
+}
+article img {
+	height: 100%;
+	width: auto;
+}
