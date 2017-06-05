@@ -3,7 +3,6 @@ body {
 	flex-flow: row wrap;
 	align-items: center;
 	justify-content: space-around;
-	height: 100vh;
 	align-content: space-around;
 	font-family: 'Roboto', sans-serif;
 	background-color: #cccccc;
@@ -13,7 +12,7 @@ article {
 	height: 300px;
 }
 footer {
-	margin-top: 200px;
+	margin-top: 205px;
 	  background-color: #595959;
 	  width: 100vw;
 	  text-align: center;
