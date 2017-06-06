@@ -12,7 +12,7 @@ article {
 	height: 300px;
 }
 footer {
-	margin-top: 205px;
+	margin-top: 209px;
 	  background-color: #595959;
 	  width: 100vw;
 	  text-align: center;
@@ -29,7 +29,7 @@ article img {
 @media all and (max-width: 600px){
 	aside {
 		font-size: 70%;
-		margin-bottom: 0px;
+		margin-top: 100px;
 	}
 	article {
 		width: 160px;
@@ -40,7 +40,7 @@ article img {
 		height: auto;
 	}
 	footer {
-		margin: 0 auto;
+		margin-top: 170px;
 		height: 40px;
 	}
 	footer img{
