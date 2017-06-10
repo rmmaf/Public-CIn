@@ -12,7 +12,7 @@ body {
 	background-color: #cccccc;
 }
 .cima {
-	width: 100%;
+	width: 80%;
 	display: flex;
 	flex: 1 0 auto;
 	flex-flow: row wrap;
@@ -34,8 +34,7 @@ footer img {
 	  width: 90px;
 	  margin: 20px;
 }
-article img {
-	height: 100%;
+article img {	height: 100%;
 	width: auto;
 }
 @media all and (max-width: 600px){
@@ -52,12 +51,11 @@ article img {
 		height: auto;
 	}
 	footer {
-		margin-top: 170px;
 		height: 40px;
 	}
 	footer img{
 		width: auto;
 		height: 85%;
-		margin: 5px;
+		margin: 0 auto;
 	}
 }
