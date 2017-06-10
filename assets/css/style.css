@@ -38,6 +38,10 @@ article img {	height: 100%;
 	width: auto;
 }
 @media all and (max-width: 600px){
+	.cima {
+		flex-flow: column wrap;
+		justify-content: center;
+	}
 	aside {
 		font-size: 70%;
 		margin-top: 100px;
